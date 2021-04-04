@@ -161,6 +161,6 @@ body {
 
 @media screen and (max-width: 650px) {
     body {
-        width: 100%;
+        text-align: justify;
     }
 }
