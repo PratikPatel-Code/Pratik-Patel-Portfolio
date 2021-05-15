@@ -1,10 +1,61 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-}
-
-ul {
-    list-style-type: none;
-}
+    * {
+        box-sizing: border-box;
+        padding: 0;
+        margin: 0;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+    
+    body {
+        background-color: rgb(44, 34, 53);
+    }
+    
+    #pratik {
+        color: white;
+    }
+    
+    #me {
+        background-color: #A7988B;
+    }
+    
+    #mypic {
+        width: 25%;
+        height: auto;
+        border: 10px solid rgb(44, 34, 53);
+    }
+    
+    #ab {
+        color: rgb(44, 34, 53)
+    }
+    
+    #about-me {
+        color: white;
+    }
+    
+    #wh {
+        color: rgb(44, 34, 53)
+    }
+    
+    #work-history {
+        background-color: #A7988B;
+    }
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    #projects {
+        text-align: center;
+        color: rgb(44, 34, 53);
+    }
+    
+    #animepic {
+        border: 10px solid rgb(44, 34, 53);
+    }
+    
+    #dayplannerpic {
+        border: 10px solid rgb(44, 34, 53);
+    }
+    
+    #quizpic {
+        border: 10px solid rgb(44, 34, 53);
+    }
