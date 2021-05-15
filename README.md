@@ -15,6 +15,8 @@ Updated professional coding portfolio.  This version includes bootstrap, link to
 4. Updated LinkedIn profile.
 5. Link to my GitHub profile with pinned assignments including group project 1.
 6. Portfolio is mobile compatible.
+7. When you click on project link it takes you to the deployed version.
+8. When you click on the project picture, it takes you to the github repository.
 
 #
 ![portfoliogif](assets/images/portfoliogif.gif)
@@ -28,6 +30,8 @@ Updated professional coding portfolio.  This version includes bootstrap, link to
 [Visual Studio](https://visualstudio.microsoft.com/)
 
 [CSS](https://www.w3.org/TR/CSS/#css)
+
+[Bootstrap](https://getbootstrap.com/)
 
 
 #
