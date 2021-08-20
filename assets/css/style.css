@@ -1,61 +1,46 @@
-    * {
-        box-sizing: border-box;
-        padding: 0;
-        margin: 0;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
-    }
-    
-    body {
-        background-color: rgb(44, 34, 53);
-    }
-    
-    #pratik {
-        color: white;
-    }
-    
-    #me {
-        background-color: #A7988B;
-    }
-    
-    #mypic {
-        width: 25%;
-        height: auto;
-        border: 10px solid rgb(44, 34, 53);
-    }
-    
-    #ab {
-        color: rgb(44, 34, 53)
-    }
-    
-    #about-me {
-        color: white;
-    }
-    
-    #wh {
-        color: rgb(44, 34, 53)
-    }
-    
-    #work-history {
-        background-color: #A7988B;
-    }
-    
-    ul {
-        list-style-type: none;
-    }
-    
-    #projects {
-        text-align: center;
-        color: rgb(44, 34, 53);
-    }
-    
-    #animepic {
-        border: 10px solid rgb(44, 34, 53);
-    }
-    
-    #dayplannerpic {
-        border: 10px solid rgb(44, 34, 53);
-    }
-    
-    #quizpic {
-        border: 10px solid rgb(44, 34, 53);
-    }
+body {
+  background-color: rgb(159, 163, 172);
+  padding: 5px;
+  -webkit-text-stroke: 1px black;
+}
+
+#contact {
+  vertical-align: middle;
+}
+
+#git {
+  font-size: 70px;
+}
+
+#linked {
+  font-size: 70px;
+}
+
+#pdf {
+  font-size: 70px;
+}
+
+.projects {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 5px 10px;
+  margin: 5px;
+  border: 5px;
+  grid-row-gap: 4rem;
+}
+
+@media screen and (min-width: 992px) {
+  body {
+    border-bottom: none;
+    border-right: solid var(--dark-blue) 2px;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .works {
+    border-bottom: none;
+    border-right: solid var(--dark-blue) 2px;
+    text-align: center;
+  }
+}
